@@ -61,5 +61,5 @@
 //  console.log(undefined>0)=>false
 //  console.log(undefined<0)=>false
 
-//strict check ===
+//strict check ===  
  console.log("2"===2);
