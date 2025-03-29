@@ -40,3 +40,20 @@ console.log(typeof(bigNumber))
 // number = number
 // string = string
  //object = object
+
+
+
+
+Exploring JavaScript's Basic Data Types:
+
+JavaScript has seven primitive data types: String, Number, Boolean, null, undefined, symbol, and BigInt. Here's a quick snapshot to help you understand each one:
+
+- `String`: Used for text, for example: `"Hello, World!"`.
+- `Number`: For numeric values, e.g., `100` or `100.3`.
+- `Boolean`: Represents truth values, `true` or `false`.
+- `null`: To represent an intentional absence of any object value, i.e., `null` (empty).
+- `undefined`: Represents a variable that has been declared but not assigned a value.
+- `symbol`: A unique and immutable data type, often used to identify object properties, such as `Symbol('123')`.
+- `BigInt`: For large integers.
+
+Here's some sample code demonstrating these types:
